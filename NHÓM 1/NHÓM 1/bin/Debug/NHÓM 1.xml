@@ -1,0 +1,376 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+NHÓM 1
+</name>
+</assembly>
+<members>
+<member name="T:NHÓM_1.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:NHÓM_1.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:NHÓM_1.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:NHÓM_1.QLThuVienDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:NHÓM_1.QLThuVienDataSet.DanhSachPhieuDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:NHÓM_1.QLThuVienDataSet.DocgiaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:NHÓM_1.QLThuVienDataSet.NhanvienDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:NHÓM_1.QLThuVienDataSet.PhieuDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:NHÓM_1.QLThuVienDataSet.QuanLyPhieuDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:NHÓM_1.QLThuVienDataSet.QuanLySachDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:NHÓM_1.QLThuVienDataSet.SachDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:NHÓM_1.QLThuVienDataSet.TacGiaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:NHÓM_1.QLThuVienDataSet.TacGiaVietSachDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:NHÓM_1.QLThuVienDataSet.TaiKhoanDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:NHÓM_1.QLThuVienDataSet.TheLoaiDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:NHÓM_1.QLThuVienDataSet.DanhSachPhieuRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:NHÓM_1.QLThuVienDataSet.DocgiaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:NHÓM_1.QLThuVienDataSet.NhanvienRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:NHÓM_1.QLThuVienDataSet.PhieuRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:NHÓM_1.QLThuVienDataSet.QuanLyPhieuRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:NHÓM_1.QLThuVienDataSet.QuanLySachRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:NHÓM_1.QLThuVienDataSet.SachRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:NHÓM_1.QLThuVienDataSet.TacGiaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:NHÓM_1.QLThuVienDataSet.TacGiaVietSachRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:NHÓM_1.QLThuVienDataSet.TaiKhoanRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:NHÓM_1.QLThuVienDataSet.TheLoaiRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:NHÓM_1.QLThuVienDataSet.DanhSachPhieuRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:NHÓM_1.QLThuVienDataSet.DocgiaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:NHÓM_1.QLThuVienDataSet.NhanvienRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:NHÓM_1.QLThuVienDataSet.PhieuRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:NHÓM_1.QLThuVienDataSet.QuanLyPhieuRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:NHÓM_1.QLThuVienDataSet.QuanLySachRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:NHÓM_1.QLThuVienDataSet.SachRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:NHÓM_1.QLThuVienDataSet.TacGiaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:NHÓM_1.QLThuVienDataSet.TacGiaVietSachRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:NHÓM_1.QLThuVienDataSet.TaiKhoanRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:NHÓM_1.QLThuVienDataSet.TheLoaiRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:NHÓM_1.QLThuVienDataSetTableAdapters.DanhSachPhieuTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:NHÓM_1.QLThuVienDataSetTableAdapters.DocgiaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:NHÓM_1.QLThuVienDataSetTableAdapters.NhanvienTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:NHÓM_1.QLThuVienDataSetTableAdapters.PhieuTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:NHÓM_1.QLThuVienDataSetTableAdapters.QuanLyPhieuTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:NHÓM_1.QLThuVienDataSetTableAdapters.QuanLySachTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:NHÓM_1.QLThuVienDataSetTableAdapters.SachTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:NHÓM_1.QLThuVienDataSetTableAdapters.TacGiaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:NHÓM_1.QLThuVienDataSetTableAdapters.TacGiaVietSachTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:NHÓM_1.QLThuVienDataSetTableAdapters.TaiKhoanTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:NHÓM_1.QLThuVienDataSetTableAdapters.TheLoaiTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:NHÓM_1.QLThuVienDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:NHÓM_1.QLThuVienDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(NHÓM_1.QLThuVienDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:NHÓM_1.QLThuVienDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(NHÓM_1.QLThuVienDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:NHÓM_1.QLThuVienDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(NHÓM_1.QLThuVienDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:NHÓM_1.QLThuVienDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:NHÓM_1.QLThuVienDataSetTableAdapters.TableAdapterManager.UpdateAll(NHÓM_1.QLThuVienDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:NHÓM_1.QLThuVienDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:NHÓM_1.QLThuVienDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:NHÓM_1.QLThuVienDataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:NHÓM_1.QLThuVienDataSet1.DANGNHAPDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:NHÓM_1.QLThuVienDataSet1.DocgiaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:NHÓM_1.QLThuVienDataSet1.DANGNHAPRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:NHÓM_1.QLThuVienDataSet1.DocgiaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:NHÓM_1.QLThuVienDataSet1.DANGNHAPRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:NHÓM_1.QLThuVienDataSet1.DocgiaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:NHÓM_1.QLThuVienDataSet1TableAdapters.DANGNHAPTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:NHÓM_1.QLThuVienDataSet1TableAdapters.DocgiaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:NHÓM_1.QLThuVienDataSet1TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:NHÓM_1.QLThuVienDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(NHÓM_1.QLThuVienDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:NHÓM_1.QLThuVienDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(NHÓM_1.QLThuVienDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:NHÓM_1.QLThuVienDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(NHÓM_1.QLThuVienDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:NHÓM_1.QLThuVienDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:NHÓM_1.QLThuVienDataSet1TableAdapters.TableAdapterManager.UpdateAll(NHÓM_1.QLThuVienDataSet1)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:NHÓM_1.QLThuVienDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:NHÓM_1.QLThuVienDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
